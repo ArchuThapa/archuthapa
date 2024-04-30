@@ -11,15 +11,15 @@ import { logoGithub } from 'ionicons/icons';
 
 
 const Project = () => {
-  const settings = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    autoplay: true,
-    autoplaySpeed: 2000
-  };
+  // const settings = {
+  //   dots: true,
+  //   infinite: true,
+  //   speed: 500,
+  //   slidesToShow: 1,
+  //   slidesToScroll: 1,
+  //   autoplay: true,
+  //   autoplaySpeed: 2000
+  // };
 
   return (
     <div className="slider-container" style={{ width: '80%', margin: '0 auto' }}>
