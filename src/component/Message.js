@@ -15,21 +15,41 @@
 // };
 
 // export default Meassage ;
-import { IonIcon } from "@ionic/react";
-import { chatbubbleEllipsesOutline } from 'ionicons/icons';
+// import { IonIcon } from "@ionic/react";
+// import { chatbubbleEllipsesOutline } from 'ionicons/icons';
 
-import React from "react";
+// import React from "react";
+
+// const Message = () => {
+//   const facebookLink = "https://www.facebook.com/profile.php?id=100077255962580";
+
+//   return (
+//     <a href={facebookLink} target="_blank" rel="noopener noreferrer" className="fixed bottom-5 sm:right-8 right-4 z-[999] cursor-pointer">
+//       <div className="text-white bg-green-600 w-16 h-16 flex items-center justify-center rounded-full animate-bounce">
+//         <IonIcon icon={chatbubbleEllipsesOutline} className="text-4xl" />
+//       </div>
+//     </a>
+//   );
+// };
+
+// export default Message;
+
+
+import React, { useEffect } from "react";
 
 const Message = () => {
-  const facebookLink = "https://www.facebook.com/profile.php?id=100077255962580";
+  useEffect(() => {
+    const tidioScript = document.createElement('script');
+    tidioScript.src = '//code.tidio.co/2vqzvehib3fn0tmrg8m6gtnam2ifkixv.js';
+    tidioScript.async = true;
+    document.body.appendChild(tidioScript);
 
-  return (
-    <a href={facebookLink} target="_blank" rel="noopener noreferrer" className="fixed bottom-5 sm:right-8 right-4 z-[999] cursor-pointer">
-      <div className="text-white bg-green-600 w-16 h-16 flex items-center justify-center rounded-full animate-bounce">
-        <IonIcon icon={chatbubbleEllipsesOutline} className="text-4xl" />
-      </div>
-    </a>
-  );
+    return () => {
+      document.body.removeChild(tidioScript);
+    };
+  }, []);
+
+  return null; // We don't need to render anything here, as Tidio chat widget will be added dynamically
 };
 
 export default Message;
