@@ -26,7 +26,7 @@ const Profile = () => {
               Hello!
               <br />
             </span>
-            My Name is <span>Archana Thapa</span>
+            I am <span>Archana Thapa</span>
           </h1>
           <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
           FrontEnd Developer
