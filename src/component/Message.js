@@ -35,7 +35,7 @@
 // export default Message;
 
 
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 
 const Message = () => {
   useEffect(() => {
