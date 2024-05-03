@@ -14,7 +14,9 @@ const About = () => {
           About <span className="text-green-600">Me</span>
         </h3>
         <p className="text-gray-400 my-3 text-lg">My introduction</p>
-        <div className="flex md:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto">
+        <div className="text-center mt-8">
+        
+        {/* <div className="flex md:flex-row flex-col-reverse items-center justify-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto"> */}
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
@@ -23,7 +25,8 @@ const About = () => {
                 ratione quibusdam doloribus pariatur consequuntur sint.
                 Reprehenderit cupiditate possimus facere quasi voluptatem?
               </p>
-              <div className="flex mt-10 items-center gap-7">
+          
+              <div className="flex justify-center mt-10 items-center gap-7">
                 {info.map((content) => (
                   <div key={content.text}>
                     <h3 className="md:text-4xl text-2xl font-semibold text-white">
@@ -36,7 +39,7 @@ const About = () => {
               </div>
               <br />
               <br />
-              <a href="/src/assests/CVArchana.pdf" download>
+              <a href="/ArchanaFrontendDeveloper.pdf" download>
                 <Button className="btn-primary mt-8 bg-green-600 rounded-full">Download CV</Button>
               </a>
             </div>

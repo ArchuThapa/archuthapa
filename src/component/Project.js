@@ -36,7 +36,11 @@ const Project = () => {
           <div>
             <img src={parkingImage} alt="Parking" />
             <h1 className="text-x font-bold text-cyan-800 mb-2">Online Parking Booking System</h1>
-            <div className="flex justify-center mb-3 w-60"><IonIcon icon={logoGithub} className="text-3xl text-gray-600" /></div>
+            <div className="flex justify-center mb-3 w-60">
+           <a href="https://github.com/ArchuThapa/OPBS">
+              <IonIcon icon={logoGithub} className="text-3xl text-gray-600" />
+              </a>
+              </div>
             <div className="flex justify-center">
               <Button className="mx-auto bg-green-600">Live Demo</Button>
             </div>
@@ -47,7 +51,11 @@ const Project = () => {
           <div>
             <img src={fashionhubImage} alt="Fashion Hub" />
             <h1 className="text-x font-bold text-red-800 mb-2">E-commerce Website</h1>
-            <div className="flex justify-center mb-3 w-60"><IonIcon icon={logoGithub} className="text-3xl text-gray-600"/></div>
+            <div className="flex justify-center mb-3 w-60">
+            <a href="https://github.com/ArchuThapa/fashionhub">
+              <IonIcon icon={logoGithub} className="text-3xl text-gray-600"/>
+              </a>
+              </div>
             <div className="flex justify-center">
               <Button className="mx-auto bg-green-600">Live Demo</Button>
             </div>
@@ -58,9 +66,17 @@ const Project = () => {
           <div>
             <img src={Portfolio} alt="Portfolio" />
             <h1 className="text-x font-bold text-yellow-800 mb-2">Portfolio</h1>
-            <div className="flex justify-center mb-3 w-60"><IonIcon icon={logoGithub} className="text-3xl text-gray-600"/></div>
+            <div className="flex justify-center mb-3 w-60">
+            <a href="https://github.com/ArchuThapa/archuthapa">
+              <IonIcon icon={logoGithub} className="text-3xl text-gray-600"/>
+              </a>
+              </div>
             <div className="flex justify-center">
+            <a href="  https://archuthapa.pages.dev">
+
+          
               <Button className="mx-auto bg-green-600">Live Demo</Button>
+              </a>
             </div>
           </div>
         </Card>

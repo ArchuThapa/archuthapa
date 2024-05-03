@@ -1,3 +1,4 @@
+import { Button } from "antd";
 import React from "react";
 
 const Hireme = () => {
@@ -20,7 +21,7 @@ const Hireme = () => {
             sapiente obcaecati odio deleniti architecto corporis ratione.
             Consequatur a quidem maiores!
           </p>
-          <button className="btn-primary mt-10">Say Hello</button>
+          <Button className="mx-auto bg-green-600">Say Hello</Button>
         </div>
        
       </div>
