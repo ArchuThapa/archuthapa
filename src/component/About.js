@@ -20,7 +20,7 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-              Hey there! I'm [Your Name], a B. CA student at Saraswati College, fueled by an immense passion for React development. Ever since I ventured into the world of web development, React has been my guiding light. Its flexibility, efficiency, and the vibrant community surrounding it have ignited a fire within me to excel in this realm.
+              Hey there! I'm Archana Thapa, B.CA student at Saraswati College, fueled by an immense passion for React development. Ever since I ventured into the world of web development, React has been my guiding light. Its flexibility, efficiency, and the vibrant community surrounding it have ignited a fire within me to excel in this realm.
 <br />
 As a React enthusiast, I thrive on crafting dynamic and visually appealing user interfaces. I relish the challenges of problem-solving and constantly seek out opportunities to innovate. Whether it's diving into new features or contributing to open-source projects, I'm always eager to learn and grow. I'm excited about the prospect of leveraging my skills to make a positive impact through meaningful experiences and collaborations in the realm of React development.
               </p>
