@@ -1,7 +1,7 @@
 import { ValidationError, useForm } from "@formspree/react";
 import { IonIcon } from "@ionic/react";
-import { Button, Form, Input } from "antd";
-import TextArea from "antd/es/input/TextArea";
+// import { Button, Form, Input } from "antd";
+// import TextArea from "antd/es/input/TextArea";
 import { locationOutline, logoWhatsapp, mailOutline } from "ionicons/icons";
 import React from "react";
 
