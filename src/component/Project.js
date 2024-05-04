@@ -22,6 +22,7 @@ const Project = () => {
   // };
 
   return (
+    <section id="projects" className="  bg-gray-800 relative py-10 px-3 text-white">
     <div className="slider-container" style={{ width: '80%', margin: '0 auto' }}>
       <div className='text-center mt-8'>
         <h3 className="text-4xl font-semibold ">
@@ -94,6 +95,7 @@ const Project = () => {
         </div>
     
     </div>
+    </section>
   );
 };
 

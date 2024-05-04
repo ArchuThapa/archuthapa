@@ -22,7 +22,7 @@ export const MainRouter=createBrowserRouter(
             <Route path="about" element={<About />} />
             <Route path="skills" element={<Skills />} />
             <Route path="hireme" element={<Hireme />} />
-            <Route path="project" element={<Project />} />
+            <Route path="projects" element={<Project />} />
             <Route path="contact" element={<Contact />} />
 
 

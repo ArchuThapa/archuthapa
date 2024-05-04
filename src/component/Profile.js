@@ -70,7 +70,7 @@ const Profile = () => {
     >
       <div className="flex-1 flex items-center justify-center h-full">
         {/* <img src={Archana} alt="Archana Thapa" className="md:w-11/12 h-auto max-h-80 md:max-h-full object-cover rounded-lg shadow-lg" /> */}
-        <img src={Archana} alt="" className="md:w-3/4 h-auto max-h-80 md:max-h-full object-cover rounded-lg shadow-lg" />
+        <img src={Archana} alt="" className="md:w-1/2 h-auto max-h-80 md:max-h-full object-cover rounded-lg shadow-lg" />
 
       </div>
       <div className="flex-1">
@@ -85,7 +85,9 @@ const Profile = () => {
           <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
             FrontEnd Developer
           </h4>
+          <a href="#contact">
           <Button className="btn-primary mt-8 bg-green-600 rounded-full ">Contact Me</Button>
+          </a>
 
           <div className="mt-8 text-3xl flex items-center md:justify-start justify-center gap-5">
             {socialMedia.map((social) => (

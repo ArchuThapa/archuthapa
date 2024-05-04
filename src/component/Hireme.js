@@ -16,12 +16,11 @@ const Hireme = () => {
             Do you want any work from me?
           </h2>
           <p className="lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis dicta
-            soluta quos tempore eos accusamus cupiditate, amet in similique
-            sapiente obcaecati odio deleniti architecto corporis ratione.
-            Consequatur a quidem maiores!
+          Right now I am a working as  Technical Support Representative at Subisu Cablenet Ltd. I would love to have a career shift towards being a react developer so if you think you have a role that suits me please 👇
           </p>
+          <a href="#message">
           <Button className="mx-auto bg-green-600">Say Hello</Button>
+          </a>
         </div>
        
       </div>
