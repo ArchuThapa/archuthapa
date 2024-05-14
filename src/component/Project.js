@@ -89,12 +89,14 @@ const Project = () => {
             
           
             <div className="flex justify-center mb-3 w-60">
-              <a href="https://465f3048.collegewebsite-4mj.pages.dev/">
+             
               <IonIcon icon={logoGithub} className="text-3xl text-gray-600"/>
-              </a>
+             
               </div>
             <div className="flex justify-center" >
+            <a href="https://465f3048.collegewebsite-4mj.pages.dev/">
               <Button className="mx-auto bg-green-600">Live Demo</Button>
+              </a>
             </div>
           </div>
         </Card>
