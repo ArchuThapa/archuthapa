@@ -86,7 +86,13 @@ const Project = () => {
           <div>
             <img src={CollegeWeb} alt="CollegeSite" />
             <h1 className="text-x font-bold text-black mb-2">College Website</h1>
-            <div className="flex justify-center mb-3 w-60"><IonIcon icon={logoGithub} className="text-3xl text-gray-600"/></div>
+            
+          
+            <div className="flex justify-center mb-3 w-60">
+              <a href="https://465f3048.collegewebsite-4mj.pages.dev/">
+              <IonIcon icon={logoGithub} className="text-3xl text-gray-600"/>
+              </a>
+              </div>
             <div className="flex justify-center" >
               <Button className="mx-auto bg-green-600">Live Demo</Button>
             </div>

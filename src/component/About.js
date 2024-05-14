@@ -38,7 +38,7 @@ As a React enthusiast, I thrive on crafting dynamic and visually appealing user 
               </div>
               <br />
               <br />
-              <a href="/ArchanaFrontendDeveloper.pdf" download>
+              <a href="/ArchanaCV.pdf" download>
                 <Button className="btn-primary mt-8 bg-green-600 rounded-full">Download CV</Button>
               </a>
             </div>
