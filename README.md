@@ -4,11 +4,6 @@
 
 Welcome to my GitHub profile! I'm a Bachelors student in Computer Applications and a passionate React developer. I love building web applications and exploring new technologies.
 
-## 🐍 Contribution Snake
-
-![GitHub Snake Light](https://github.com/ArchuThapa/archuthapa/blob/output/dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/ArchuThapa/archuthapa/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only)
-
 ## 📫 Connect with me
 
 Feel free to reach out to me through any of the following platforms:
@@ -38,6 +33,11 @@ Here are some of my favorite projects:
 ![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchuThapa&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Have a great day! 😊
+
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/ArchuThapa/archuthapa/blob/output/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/ArchuThapa/archuthapa/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 
 ## ⭐ Star this repository!
