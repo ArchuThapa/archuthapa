@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a Bachelors student in Computer Applications a
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake dark](https://github.com/ArchanaThapa/ArchanaThapa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/ArchanaThapa/ArchanaThapa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://github.com/ArchanaThapa/ArchanaThapa/blob/output/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/ArchanaThapa/ArchanaThapa/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ## 📫 Connect with me
 
