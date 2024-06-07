@@ -1,4 +1,4 @@
-# 👋 Hello Stranger! This is Archana Thapa
+# 👋 Hi there! I'm Archana Thapa
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=React+Developer;BCA+Student;Tech+Enthusiast)](https://git.io/typing-svg)
 
@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a Bachelors student in Computer Applications a
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://github.com/ArchanaThapa/ArchanaThapa/blob/output/dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/ArchanaThapa/ArchanaThapa/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/ArchuThapa/archuthapa/blob/output/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/ArchuThapa/archuthapa/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ## 📫 Connect with me
 
@@ -35,12 +35,14 @@ Here are some of my favorite projects:
 
 ## 🏆 GitHub Stats
 
-![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchanaThapa&show_icons=true&theme=radical)
+![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchuThapa&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Have a great day! 😊
+
 
 ## ⭐ Star this repository!
 
 If you find my projects interesting, please give them a star! Your support means a lot to me.
 
-[![Stars](https://img.shields.io/github/stars/ArchanaThapa/ArchanaThapa?style=social)](https://github.com/ArchanaThapa)
+[![Stars](https://img.shields.io/github/stars/ArchuThapa/archuthapa?style=social)](https://github.com/ArchuThapa)
+
